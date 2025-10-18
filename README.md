@@ -1,2 +1,2 @@
-Play game 5levels 
+Play game 
 https://zhurykmaks11.github.io/Memory-Pair-Game/
